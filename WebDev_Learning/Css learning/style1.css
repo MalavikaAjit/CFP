@@ -1,0 +1,28 @@
+body{
+    background-color: khaki;
+    margin: 0px ;
+}
+h1{
+    color: gray;
+    font-style: inherit;
+    margin-top: 0px;
+}
+img:hover{
+    background-color:gold;
+}
+.broccoli{
+    background-color: lavender;
+}
+.cheese{
+    background-color:lightpink;
+}
+.circular{
+    border-radius: 100%;
+}
+/*********ID********/
+#heading{
+    color:maroon;
+}
+div{
+    background-color: rgb(146, 192, 190);
+}
